@@ -12,8 +12,6 @@ Code
 
 /python/deep-cnn/: code for ConvNet training.
 Train ConvNet: run_nnet_classification.py
-Train baselines: run_baseline_classification.py
-Train ConvNet with time interval information: run_nnet_classification_with_time_interval.py
 
 
 Examples
